@@ -25,7 +25,7 @@ Before using the script, ensure that you have the following prerequisites instal
 
 4. Update the configuration file:
 
-- Open the `config.py` file in a text editor.
+- Open the `index.py` file in a text editor.
 - Enter your Telegram API credentials (`API_ID` and `API_HASH`).
 - Specify the desired channels to scrape by adding their names or IDs to the `CHANNELS` list.
 - Customize any other relevant settings as necessary.
